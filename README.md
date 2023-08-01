@@ -27,7 +27,7 @@ The goal of this project was to demonstrate my ability as a level designer and m
 - Realize the Design using Graybox and tools provided by Unreal Engine, no complex textures
 - For the map there must be elements that suggest to the player the height of the head of a standing enemy, this way the player always knows where to aim
 - Level for a FPS with dynamic and fast movement
-- Must be a map suitable for Search and Destroy, “Location”, Death Match, Free-for-All (TCT) and domination.
+- Must be a map suitable for Search and Destroy, “Location”, Death Match, Free-for-All (FFA) and domination.
 - Must include new mechanics unique to the level
 
 # #Process
