@@ -40,11 +40,22 @@ When I create a new level always thinking in the same way:
 <hr>
 
 Actors used to create the prototype:
-Rock This group of cubes represents rocks. It is used everywhere for this purpose.
-Crate This cube represents a chest left behind by the insiders. It can be pierced by blows and its end delimits the height of a player. They are scattered everywhere with the aim of helping the player to aim.
+
+![RC](/project_v_chest.png)
+This cube represents a chest/container left behind by workers. It can be pierced by blows and its end delimits the height of a player. They are scattered everywhere with the aim of helping the player to aim.
+
+![RC](/project_v_co.png)
 Column There are two columns, the blue ones and the normal ones. In the final level, the artist has to convey the difference through the use of textures and other methods. The blue pillar can fall / become an obstacle / be destroyed, it has HP decided by the game designer. The blue column can also be tied to a pulley which, if destroyed, drops the column.
+
+![RC](/project_v_upv2.png)
 Crane / zip line allows players to climb above the roof of the building.
+
+![RC](/project_v_props.png)
 Colonnade / Small temple / trees are for aesthetic purposes only.
+
+![RC](/project_v_rock.png)
+Rock This group of cubes represents rocks. It is used everywhere for this purpose.
+
 
 # #Feedback and how I reacted:
 
