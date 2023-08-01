@@ -11,6 +11,7 @@ The mime goal of this project was to demonstrate my ability as a level designer 
 <hr>
 
 - Only 5 hours available, in one day
+- Make a big level by recycling a few assets
 - The level must not be flat, players must be able to climb on roofs of buildings / rocks / other to gain height advantage and make the game more complete, dynamic and immersive
 - Making it possible, in a single map, to be able to play both close-range rifles and long-range rifles, supporting the styles of both players
 - Realize the Design using Graybox and tools provided by Unreal Engine, no complex textures
