@@ -1,3 +1,13 @@
+# #Screenshots
+
+![RC](/S1.png)
+![RC](/S2.png)
+![RC](/S3.png)
+![RC](/S4.png)
+![RC](/S5.png)
+![RC](/S6.png)
+
+
 # #Summary
 
 <hr>
@@ -66,12 +76,3 @@ Rock This group of cubes represents rocks. It is used everywhere for this purpos
 - Other minor fixes, such as too empty zones
 
 To download the first version of the game and see the iterations, feel free to ask me at: rotondo.giuseppe.03@gmail.com
-
-# #Screenshots
-
-![RC](/S1.png)
-![RC](/S2.png)
-![RC](/S3.png)
-![RC](/S4.png)
-![RC](/S5.png)
-![RC](/S6.png)
