@@ -12,7 +12,7 @@
 
 <hr>
 
-The mime goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game.
+The goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game under specific conditions.
 - To play the prototype click: [Download (150 Mb)](https://giusepperotondo.itch.io/project-v)
 - To see more screenshots of the level [Art Station](https://www.artstation.com/artwork/rJPDP6) or scroll down to the bottom of this page
 
