@@ -1,26 +1,18 @@
-To play the prototype click: [Download (150 Mb)]()
-To see more screenshots of the level [Art Station]() or scroll down to the bottom of the pages
-
 # #Summary
-The mime goal of this project was to demonstrate my ability as a level designer, both to myself and to the people / companies I send my resume to.
+The mime goal of this project was to demonstrate my ability as a level designer and make a new level for my future FPS game.
+- To play the prototype click: [Download (150 Mb)]()
+- To see more screenshots of the level [Art Station]() or scroll down to the bottom of the pages
 
 # #Specifications:
 
-The level must not be flat, players must be able to climb on roofs of buildings / rocks / other to gain height advantage and make the game more complete, dynamic and immersive
-Making it possible, in a single map, to be able to play both close-range rifles and long-range rifles, supporting the styles of both players
-Realize the Design using Graybox and tools provided by Unreal Engine, no complex textures
-For the map there must be elements that suggest to the player the height of the head of a standing enemy, this way the player always knows where to aim
-Level for a FPS with dynamic and fast movement
-Must be a map suitable for Search and Destroy, “Location”, Death Match, Free-for-All (TCT) and domination.
-Only 5 hours available, in one day
-Must include new mechanics unique to the level
-The map must be linked to a place and an event
-(Search and Destroy) Must have 3 sites (A,B,C)
-A must have X accesses
-B must have Y accesses
-C must have Z accesses
-Respond to feedback and upgrade your level
-
+- Only 5 hours available, in one day
+- The level must not be flat, players must be able to climb on roofs of buildings / rocks / other to gain height advantage and make the game more complete, dynamic and immersive
+- Making it possible, in a single map, to be able to play both close-range rifles and long-range rifles, supporting the styles of both players
+- Realize the Design using Graybox and tools provided by Unreal Engine, no complex textures
+- For the map there must be elements that suggest to the player the height of the head of a standing enemy, this way the player always knows where to aim
+- Level for a FPS with dynamic and fast movement
+- Must be a map suitable for Search and Destroy, “Location”, Death Match, Free-for-All (TCT) and domination.
+- Must include new mechanics unique to the level
 
 # #Process
 
