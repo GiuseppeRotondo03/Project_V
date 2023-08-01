@@ -57,3 +57,10 @@ Colonnade / Small temple / trees are for aesthetic purposes only.
 To download the first version of the game and see the iterations, feel free to ask me at: rotondo.giuseppe.03@gmail.com
 
 # #Screenshots
+
+![RC](/S1.png)
+![RC](/S2.png)
+![RC](/S3.png)
+![RC](/S4.png)
+![RC](/S5.png)
+![RC](/S6.png)
