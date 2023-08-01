@@ -31,15 +31,9 @@ Unstable columns that can fall / become an obstacle / be destroyed, has HP decid
 
 When I create a new level always thinking in the same way:
 
-**Image**
-“Big shape”
-The first phase involves creating large boxes to understand the size of the level in a general way, without thinking about the details or the actors who will make up the level. Just an estimate.
-**Image**
-“Medium Shape”
-The second step involves better understanding which parts will go where, starting to make an estimate of how the level will be structured, without thinking about the details, I add more complex shapes and points of interest that I want to give importance to.
-**Image**
-“Small Shape”
-When the level is set, I start filling in all the details that will make up the final scene. (Like, for example, Box, extra columns etc…)
+- “Big shape”: The first phase involves creating large boxes to understand the size of the level in a general way, without thinking about the details or the actors who will make up the level. Just an estimate.
+- “Medium Shape”: The second step involves better understanding which parts will go where, starting to make an estimate of how the level will be structured, without thinking about the details, I add more complex shapes and points of interest that I want to give importance to.
+- “Small Shape”: When the level is set, I start filling in all the details that will make up the final scene. (Like, for example, Box, extra columns etc…)
 
 # #Actors
 
