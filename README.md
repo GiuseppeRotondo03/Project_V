@@ -34,7 +34,7 @@ The goal of this project was to demonstrate my ability as a level designer and m
 
 <hr>
 
-I started by deciding right away the place and the events in which the level is set. After some research, I used the image references and the story to build some game mechanics. The idea of the project is therefore:
+I started by deciding right away the place and the events in which the level is set. After some research, I used [image references     ](/project_v_reference.png) and the story to build some game mechanics. The idea of the project is therefore:
 The map is set in Italy, Sicily, Temple of Agrigento. After some events in the world of FPS (xxx) gaming, two teams of players find themselves fighting in this temple under renovation. For this reason, there are:
 Ziplines and ladders that the player can use to climb
 Unstable columns that can fall / become an obstacle / be destroyed, has HP decided by the game designer
