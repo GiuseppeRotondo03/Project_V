@@ -35,15 +35,16 @@ The goal of this project was to demonstrate my ability as a level designer and m
 <hr>
 
 I started by deciding right away the place and the events in which the level is set. After some research, I used [image references     ](/project_v_reference.png) and the story to build some game mechanics. The idea of the project is therefore:
-The map is set in Italy, Sicily, Temple of Agrigento. After some events in the world of FPS (xxx) gaming, two teams of players find themselves fighting in this temple under renovation. For this reason, there are:
-Ziplines and ladders that the player can use to climb
-Unstable columns that can fall / become an obstacle / be destroyed, has HP decided by the game designer
+- The map is set in Italy, Sicily, Temple of Agrigento.
+- After some events in the world of FPS (xxx) gaming, two teams of players find themselves fighting in this temple under renovation. For this reason, there are:
+- Ziplines and ladders that the player can use to climb
+- Unstable columns that can fall / become an obstacle / be destroyed, has HP decided by the game designer.
 
 When I create a new level always thinking in the same way:
 
 - “Big shape”: The first phase involves creating large boxes to understand the size of the level in a general way, without thinking about the details or the actors who will make up the level. Just an estimate.
 - “Medium Shape”: The second step involves better understanding which parts will go where, starting to make an estimate of how the level will be structured, without thinking about the details, I add more complex shapes and points of interest that I want to give importance to.
-- “Small Shape”: When the level is set, I start filling in all the details that will make up the final scene. (Like, for example, Box, extra columns etc…)
+- “Small Shape”: When the level is set, I start filling in all the details that will make up the final scene. (Like, for example, Box, extra columns…)
 
 # #Actors
 
