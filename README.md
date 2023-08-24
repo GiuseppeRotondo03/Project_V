@@ -39,11 +39,13 @@ I started by deciding right away the place and the events in which the level is 
 - Ziplines and ladders that the player can use to climb
 - Unstable columns that can fall / become an obstacle / be destroyed, has HP decided by the game designer.
 
-When I create a new level always thinking in the same way:
+Other requirements
 
-- “Big shape”: The first phase involves creating large boxes to understand the size of the level in a general way, without thinking about the details or the actors who will make up the level. Just an estimate.
-- “Medium Shape”: The second step involves better understanding which parts will go where, starting to make an estimate of how the level will be structured, without thinking about the details, I add more complex shapes and points of interest that I want to give importance to.
-- “Small Shape”: When the level is set, I start filling in all the details that will make up the final scene. (Like, for example, Box, extra columns…)
+- The way in which the player faces the enemies must not be linear, but the player must have the possibility to choose at least 2 directions to continue.
+- The map must have a clear "central" place, where players can meet more easily
+- Spawn - kill from long distances must be avoided, spawn points must be covered by props.
+- Players can climb high buildings to get advantages, but their position doesn't have to be OP. Going up or staying for a long time carries a risk
+- Bullets only pass through chests, not walls
 
 # #Actors
 
