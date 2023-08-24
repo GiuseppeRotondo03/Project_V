@@ -39,8 +39,6 @@ I started by deciding right away the place and the events in which the level is 
 - Ziplines and ladders that the player can use to climb
 - Unstable columns that can fall / become an obstacle / be destroyed, has HP decided by the game designer.
 
-Other requirements
-
 - The way in which the player faces the enemies must not be linear, but the player must have the possibility to choose at least 2 directions to continue.
 - The map must have a clear "central" place, where players can meet more easily
 - Spawn - kill from long distances must be avoided, spawn points must be covered by props.
